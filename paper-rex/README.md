@@ -18,7 +18,7 @@
 
 ## 📖 Project Description
 
-**Green Habits** is a web application built to manage and showcase team members. It allows users to add members with profile photos, view all members in a card layout, and see full details of each member. The app is built with a React frontend and a Node.js + Express + MongoDB backend.
+**Student Team Members Management Application** is a web application built to manage and showcase team members. It allows users to add members with profile photos, view all members in a card layout, and see full details of each member. The app is built with a React frontend and a Node.js + Express + MongoDB backend.
 
 ---
 
