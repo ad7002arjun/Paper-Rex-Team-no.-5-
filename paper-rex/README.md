@@ -1,4 +1,4 @@
-# 🌿 Paper Rex — Green Habits
+# 🌿 Paper Rex 
 
 > Student Team Members Management Application  
 > Course: 21CSS301T – Full Stack Development | SRM Institute of Science and Technology  
